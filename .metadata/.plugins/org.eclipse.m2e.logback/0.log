@@ -430,3 +430,92 @@
 2024-06-30 00:24:28,703 [Worker-725: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
 2024-06-30 00:27:02,969 [Worker-732: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-06-30 00:27:02,970 [Worker-732: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 00:28:10,176 [Worker-23: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-06-30 00:29:45,456 [Worker-196: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-30 00:29:45,468 [Worker-196: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 00:29:48,927 [Worker-212: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-30 00:29:48,929 [Worker-212: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 00:31:04,713 [Worker-239: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-30 00:31:04,715 [Worker-239: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 00:32:07,461 [Worker-196: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-30 00:32:07,463 [Worker-196: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 00:32:09,105 [Worker-212: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-30 00:32:09,107 [Worker-212: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 00:34:07,581 [Worker-243: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-30 00:34:07,582 [Worker-243: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 00:34:25,405 [Worker-212: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-30 00:34:25,406 [Worker-212: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 00:34:39,150 [Worker-245: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-30 00:34:39,152 [Worker-245: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 00:35:18,243 [Worker-243: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-30 00:35:18,245 [Worker-243: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 00:35:45,523 [Worker-196: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-30 00:35:45,525 [Worker-196: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 00:36:07,515 [Worker-196: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-30 00:36:07,516 [Worker-196: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 00:36:29,722 [Worker-244: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-30 00:36:29,724 [Worker-244: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 00:36:34,726 [Worker-244: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-30 00:36:34,728 [Worker-244: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 00:38:59,952 [Worker-247: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-30 00:38:59,954 [Worker-247: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 00:39:03,083 [Worker-243: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-30 00:39:03,084 [Worker-243: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 00:39:13,107 [Worker-243: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-30 00:39:13,108 [Worker-243: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 00:42:15,883 [Worker-243: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:SpringIoCProject:0.0.1-SNAPSHOT @ D:\Projects\JAVA\SpringBasic\SpringIoCProject\pom.xml.
+2024-06-30 00:42:16,001 [Worker-243: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.32/slf4j-api-1.7.32.pom
+2024-06-30 00:42:16,016 [Worker-243: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.32/slf4j-api-1.7.32.pom
+2024-06-30 00:42:16,026 [Worker-243: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.32/slf4j-parent-1.7.32.pom
+2024-06-30 00:42:16,030 [Worker-243: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.32/slf4j-parent-1.7.32.pom
+2024-06-30 00:42:16,044 [Worker-243: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.32/slf4j-api-1.7.32.jar
+2024-06-30 00:42:16,052 [Worker-243: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.32/slf4j-api-1.7.32.jar
+2024-06-30 00:42:16,114 [Worker-243: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-30 00:42:16,116 [Worker-243: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 00:42:17,101 [Worker-249: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.2.11/logback-classic-1.2.11-sources.jar
+2024-06-30 00:42:17,118 [Worker-249: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.2.11/logback-classic-1.2.11-sources.jar
+2024-06-30 00:42:17,120 [Worker-249: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for ch.qos.logback:logback-classic:1.2.11
+2024-06-30 00:42:17,143 [Worker-249: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11-sources.jar
+2024-06-30 00:42:17,166 [Worker-249: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11-sources.jar
+2024-06-30 00:42:17,168 [Worker-249: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for ch.qos.logback:logback-core:1.2.11
+2024-06-30 00:42:17,187 [Worker-249: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.32/slf4j-api-1.7.32-sources.jar
+2024-06-30 00:42:17,195 [Worker-249: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.32/slf4j-api-1.7.32-sources.jar
+2024-06-30 00:42:17,196 [Worker-249: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.32
+2024-06-30 00:42:17,399 [Worker-249: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-06-30 00:42:17,403 [Worker-249: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 00:42:18,740 [Worker-252: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:SpringIoCProject:0.0.1-SNAPSHOT @ D:\Projects\JAVA\SpringBasic\SpringIoCProject\pom.xml.
+2024-06-30 00:42:18,774 [Worker-252: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.4.11/logback-classic-1.4.11.pom
+2024-06-30 00:42:18,776 [Worker-252: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.4.11/logback-classic-1.4.11.pom
+2024-06-30 00:42:18,785 [Worker-252: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ch/qos/logback/logback-parent/1.4.11/logback-parent-1.4.11.pom
+2024-06-30 00:42:18,788 [Worker-252: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ch/qos/logback/logback-parent/1.4.11/logback-parent-1.4.11.pom
+2024-06-30 00:42:18,798 [Worker-252: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.4.11/logback-core-1.4.11.pom
+2024-06-30 00:42:18,800 [Worker-252: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.4.11/logback-core-1.4.11.pom
+2024-06-30 00:42:18,809 [Worker-252: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.pom
+2024-06-30 00:42:18,811 [Worker-252: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.pom
+2024-06-30 00:42:18,819 [Worker-252: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/2.0.7/slf4j-parent-2.0.7.pom
+2024-06-30 00:42:18,822 [Worker-252: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/2.0.7/slf4j-parent-2.0.7.pom
+2024-06-30 00:42:18,839 [Worker-252: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.4.11/logback-classic-1.4.11.jar
+2024-06-30 00:42:18,870 [Worker-252: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.4.11/logback-classic-1.4.11.jar
+2024-06-30 00:42:18,878 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.4.11/logback-core-1.4.11.jar
+2024-06-30 00:42:18,899 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.jar
+2024-06-30 00:42:18,903 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.4.11/logback-core-1.4.11.jar
+2024-06-30 00:42:18,908 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.jar
+2024-06-30 00:42:18,960 [Worker-252: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-30 00:42:18,962 [Worker-252: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 00:42:19,954 [Worker-252: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.4.11/logback-classic-1.4.11-sources.jar
+2024-06-30 00:42:19,976 [Worker-252: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.4.11/logback-classic-1.4.11-sources.jar
+2024-06-30 00:42:19,978 [Worker-252: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for ch.qos.logback:logback-classic:1.4.11
+2024-06-30 00:42:19,996 [Worker-252: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.4.11/logback-core-1.4.11-sources.jar
+2024-06-30 00:42:20,021 [Worker-252: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.4.11/logback-core-1.4.11-sources.jar
+2024-06-30 00:42:20,022 [Worker-252: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for ch.qos.logback:logback-core:1.4.11
+2024-06-30 00:42:20,048 [Worker-252: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7-sources.jar
+2024-06-30 00:42:20,059 [Worker-252: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7-sources.jar
+2024-06-30 00:42:20,060 [Worker-252: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:2.0.7
+2024-06-30 00:42:20,258 [Worker-243: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-06-30 00:42:20,261 [Worker-243: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 00:42:50,548 [Worker-243: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-06-30 00:42:50,549 [Worker-243: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 01:05:21,569 [Worker-262: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-06-30 01:05:21,570 [Worker-262: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 01:05:26,368 [Worker-263: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-06-30 01:05:26,369 [Worker-263: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
