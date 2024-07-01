@@ -15,5 +15,8 @@ public class TVUser {
 		tv.volumeUp();
 		tv.volumeDown();
 		tv.powerOff();
+		
+		// 컨테이너를 종료하면 컨테이너가 관리하던 모든 객체가 삭제된다.
+		container.close();
 	}
 }

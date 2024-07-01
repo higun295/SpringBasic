@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans"
-       xmlns:context="http://www.springframework.org/schema/context"
-       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
        					   http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
-	<!-- Spring 컨테이너가 생성할 객체를 bean 등록한다. -->
-	<bean id="tv" class="com.example.tv3.SamsungTV"></bean>
+	<!-- Spring 컨테이너가 생성할 객체를 bean 등록한다. 
+	<bean id="tv"   
+		  class="com.example.tv3.SamsungTV"
+		  init-method="멤버변수초기화"
+		  destroy-method="자원해제"
+		  lazy-init="false"
+		  scope="prototype"></bean>
+	-->
 	
-	<bean class="com.example.tv3.LgTV"></bean>
+	<bean id="speaker" class="com.example.tv3.AppleSpeaker"/>
+	
+	<bean id="tv" class="com.example.tv3.SamsungTV">
+		<property name="speaker" ref="speaker" />
+		<property name="price" value="1500000" />
+	</bean>
+	
+	<bean id="collection" class="com.example.collection.CollectionBean">
+		<property name="addressList">
+			<list>
+				<value>도봉동</value>
+				<value>쌍문동</value>
+				<value>압구정동</value>
+			</list>
+		</property>
+	</bean>
 </beans>
