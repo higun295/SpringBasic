@@ -519,3 +519,61 @@
 2024-06-30 01:05:21,570 [Worker-262: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
 2024-06-30 01:05:26,368 [Worker-263: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
 2024-06-30 01:05:26,369 [Worker-263: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 23:38:13,924 [Worker-534: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-30 23:38:13,926 [Worker-534: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 23:41:11,581 [Worker-537: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-30 23:41:11,584 [Worker-537: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 23:42:32,089 [Worker-538: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-30 23:42:32,090 [Worker-538: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 23:42:35,381 [Worker-539: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-30 23:42:35,382 [Worker-539: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 23:42:59,212 [Worker-539: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-30 23:42:59,213 [Worker-539: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 23:43:15,791 [Worker-534: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-30 23:43:15,792 [Worker-534: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 23:43:54,809 [Worker-540: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-30 23:43:54,811 [Worker-540: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 23:43:55,850 [Worker-536: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-30 23:43:55,852 [Worker-536: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 23:44:16,543 [Worker-538: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-30 23:44:16,544 [Worker-538: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 23:44:25,270 [Worker-540: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-30 23:44:25,270 [Worker-540: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 23:44:43,230 [Worker-541: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-30 23:44:43,231 [Worker-541: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 23:56:32,493 [Worker-545: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-30 23:56:32,494 [Worker-545: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-06-30 23:56:47,338 [Worker-547: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-30 23:56:47,338 [Worker-547: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-07-01 00:02:22,693 [Worker-551: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-01 00:02:22,694 [Worker-551: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-07-01 00:02:45,456 [Worker-542: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-01 00:02:45,457 [Worker-542: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-07-01 00:03:17,007 [Worker-549: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-01 00:03:17,009 [Worker-549: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-07-01 00:03:24,280 [Worker-549: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-01 00:03:24,281 [Worker-549: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-07-01 00:06:55,754 [Worker-542: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-01 00:06:55,755 [Worker-542: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-07-01 00:07:05,347 [Worker-554: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-01 00:07:05,348 [Worker-554: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-07-01 00:07:09,941 [Worker-550: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-01 00:07:09,942 [Worker-550: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-07-01 00:07:19,844 [Worker-542: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-01 00:07:19,845 [Worker-542: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-07-01 00:07:25,279 [Worker-555: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-01 00:07:25,279 [Worker-555: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-07-01 00:08:08,988 [Worker-554: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-01 00:08:08,989 [Worker-554: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-07-01 00:08:14,553 [Worker-554: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-01 00:08:14,554 [Worker-554: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-07-01 00:08:26,089 [Worker-550: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-01 00:08:26,090 [Worker-550: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-07-01 00:08:35,005 [Worker-557: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-01 00:08:35,006 [Worker-557: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-07-01 00:08:37,619 [Worker-555: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-07-01 00:08:37,620 [Worker-555: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-07-01 00:09:21,854 [Worker-554: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-01 00:09:21,855 [Worker-554: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
+2024-07-01 00:09:28,380 [Worker-550: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-07-01 00:09:28,380 [Worker-550: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\JAVA\SpringBasic\SpringIoCProject\src\test\resources
