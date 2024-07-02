@@ -4,6 +4,10 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
        					   http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+
+	<!-- Annotation 기반의 IoC 설정 -->
+	<context:component-scan base-package="com.example.tv3"/>
+	       					   
 	<!-- Spring 컨테이너가 생성할 객체를 bean 등록한다. 
 	<bean id="tv"   
 		  class="com.example.tv3.SamsungTV"
@@ -11,7 +15,7 @@
 		  destroy-method="자원해제"
 		  lazy-init="false"
 		  scope="prototype"></bean>
-	-->
+	
 	
 	<bean id="speaker" class="com.example.tv3.AppleSpeaker"/>
 	
@@ -26,7 +30,11 @@
 				<value>도봉동</value>
 				<value>쌍문동</value>
 				<value>압구정동</value>
+				<value>면목동</value>
 			</list>
 		</property>
 	</bean>
+	-->
+	
+	
 </beans>
