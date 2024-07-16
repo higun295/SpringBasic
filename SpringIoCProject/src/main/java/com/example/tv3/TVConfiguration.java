@@ -12,7 +12,7 @@ public class TVConfiguration {
 	@Bean // <bean id="tv" class="com.example.tv3.GoogleTV"/> 이것과 동일
 	TV tv() { // 여기 이 method 이름이 bean의 id로 자동 부여
 		GoogleTV tv = new GoogleTV();
-		tv.setSpeaker(speaker());
+//		tv.setSpeaker(speaker());
 		return tv;
 	}
 

@@ -1,17 +1,18 @@
 package com.example.tv3;
 
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.stereotype.Component;
+
+@Component("tv")
+@ComponentScan(basePackages = "hello")
 public class GoogleTV implements TV {
+	
+	@Autowired //Type Injection
 	private Speaker speaker;
 	
 	public GoogleTV() {
 		System.out.println("===> GoogleTV(1) 생성");
-	}
-	public GoogleTV(Speaker speaker) {
-		System.out.println("===> GoogleTV(2) 생성");
-		this.speaker = speaker;
-	}
-	public void setSpeaker(Speaker speaker) {
-		this.speaker = speaker;
 	}
 	public void powerOn() {
 		System.out.println("GoogleTV---전원 켠다.");

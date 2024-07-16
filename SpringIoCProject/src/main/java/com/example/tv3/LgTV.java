@@ -3,7 +3,7 @@ package com.example.tv3;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-@Component("tv")
+//@Component("tv")
 public class LgTV implements TV {
 	
 	// 1. Speaker 타입의 객체가 반드시 메모리에 존재해야 한다.
